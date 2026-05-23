@@ -1,4 +1,6 @@
 .codex/
+.netlify/
+.npm-cache/
 
 # OS / editor noise
 .DS_Store
